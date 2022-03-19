@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>პროექტი:ბლოგი</title>
+        
+        <style>
+            h1 {
+                color: rgb(224, 255, 225);
+                background-color: rgb(5, 102, 10);
+                font-family: cursive;
+                text-align:center;
+            }
+            h3 {
+                color:rgb(37, 92, 1);
+                font-style: sans-serif;
+            }
+            h2 {
+                color: rgb(33, 71, 0);
+                background-color: rgb(212, 250, 195);
+                
+            }
+            body {
+                background-color: rgb(235, 250, 227);
+            }
+            td {
+                background-color: rgb(193,247,169);
+                color: rgb(7, 23, 0);
+                font-family: cursive;
+            }
+            th {
+                background-color: rgb(166, 242, 153);
+                color: rgb(17, 64, 0);
+                font-family:sans-serif;
+            }
+            p {
+                color: rgb(15, 48, 0);
+                font-family: cursive;
+                line-height: 1.5em;
+            }
+            h4 {
+                color: rgb(31, 77, 1);
+                text-decoration: underline;
+                
+            }
+            .orange {
+                color: rgb(150, 95, 0);
+            }
+            .green{
+                color:rgb(40, 171, 0);
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1>Tamari's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#cat">About the cat</a></li>
+            <li><a href="#dog">About the dog</a></li>
+            <li><a href="#horse">About the horse</a></li>
+            <li><a href="#con">Conclusion</a></li>
+            <li><a href="#life-time"> Pet Lifespans:</a></li>
+            
+        </ul>
+        
+        <!--introduction of my vavorite pets-->
+        <h2 id="introduction">Introduction</h2>
+        <p> Humans are fond of animals. With some of the significant dreams in life, owning a pet is also one. <strong><em>Pets</em></strong> are not only a sense of happiness, but they also prove to be a <strong>family member</strong>.<br>
+
+Though there are several dangerous species, humans adopt the ones that are among the least dangerous. People train their pets. The training is given by either the owner himself or someone virtuoso. It helps them to behave as similar to humans and even to be more familiar with human life. <br>
+
+Let us see some of my favorite animals. Those like the animals a lot, but <strong>cat, dogs</strong>, and <strong>horses</strong> are my favorite ones.</p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/cat.png"width="170" alt="cat with loop">
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/retriever.png"width="170" alt="the photo shows a dog">
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/horse.png" width="170" alt="this photo shows a horse">
+        
+        <h2 id="cat">About the cat</h2>
+        <p><strong><em>My favourite animal is cat</em></strong>. They are the cutest pets in the world! I love their wet noses and fluffy tails. The paws of cats are like soft cotton balls. Most of all, I like the fact that cats are always curious and distracted. This makes them very silly and funny at the same time.</p>
+        
+        <h2 id="dog">About the dog</h2>
+        <p><strong><em>My favourite animal is dog</em></strong>. I like dogs because they are very loyal. I love to pet dogs and move my hand through their soft fur. A dog is a loving companion for life.<br>
+This is a picture of me with my pet dog Casper. I have great fun playing with him every day. My pet dog sits by my side when I am unhappy. He is the most precious gift I have received for my birthday.</p>
+        <h2 id="horse">About the horse</h2>
+        <p><strong><em>My favourite animal is a horse</em></strong>. They are herbivorous animals that feed on hay, grass, herbs, and some vegetables. Horses can form friendships with humans, as they are social animals. They are known for their majestic movements and speed.</p>
+        
+        <h4 id="life-time">Pet Lifespans: How Long Do Pets Live?</h4>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th> Photo</th>
+                    <th>Type of pet</th>
+                    <th>Average Life Expectancy (In Captivity)</th>
+                    <th>Additional Info</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/cat.png"width="90"> </td>
+                    <td>Indoor-Only Cat</td>
+                    <td class="green">12/18 years</td>
+                    <td class="orange">The oldest recorded cat lived to be 28 years old!</td>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr>
+                <td><img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/retriever.png"width="90"></td>
+                    <td>Medium Dog (20–89 lbs)</td>
+                    <td class="green">11 years</td>
+                    <td class="orange">An Australian cattle dog holds the record of oldest dog at 29 years.<td>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr>
+                    <td><img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/horse.png" width="90"> </td>
+                    <td>Horse or Pony</td>
+                    <td class="green">25/33 years</td>
+                    <td class="orange">Ponies tend to live longer than horses. The oldest horse ever recorded was 52 years old.<td>
+                </tr>
+            </tbody>
+            
+        </table>
+        <h5> click <a href="https://pethelpful.com/pet-ownership/Pet-Life-Expectancy-The-Lifespans-of-Popular-Pets">here</a> to the read more</h5>
+        
+        
+        <h2 id="con">Conclusion</h2>
+        <p>With thousands of species around the globe, these are few which can be trained and treated a friend. It is made possible just because of the nature and intelligence power of the animal. <br>
+
+Humans are considered as the wonderful creatures made by god. Animals also lie in the same bracket. When tamed and treated properly, both the humans and the animals could be of great use. <br>
+
+However, we should be well aware of these animals. This is true that they are helpful and friendly, but sometimes, because of diseases and disorders, they may harm their master. Though this is too rare to happen, the precautions taken in advance are of great importance.<br>
+
+Be aware and treat well! We have got wonderful gifts from god.</p>
+
+    
+
+        <h5><em>This text ctredit</em>: www.studytoday.net: <em>click</em><a href="https://www.studytoday.net/paragraph-on-my-favourite-animal-for-grades-1-and-2/"> here</a></h5>
+        
+        
+    </body>
+</html>
